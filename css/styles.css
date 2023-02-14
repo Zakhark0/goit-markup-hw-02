@@ -197,6 +197,7 @@ body {
   background: #f4f4fd;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 /* galery */
