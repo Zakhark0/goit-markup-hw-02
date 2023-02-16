@@ -105,7 +105,7 @@ body {
   background: var(--hover-btn-color);
 }
 .hero-btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -187,7 +187,7 @@ body {
   color: var(--btn-first-color);
 }
 .filtres-button {
-  font-family: 'Roboto', sans-serif;
+  font-family: inherit;
   color: var(--btn-second-color);
   font-weight: 500;
   font-size: 16px;
